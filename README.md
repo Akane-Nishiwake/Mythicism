@@ -1,4 +1,8 @@
-This project was made in collaboration with my classmates in the spring/summer of 2022 for our Final Project at Full Sail University. You can read more about the project here https://arcanestudios.itch.io/mythicism as well as test out the game itself.
+This project was made in collaboration with my classmates in the spring/summer of 2022 for our Final Project at Full Sail University. 
+You can read more about the project here https://arcanestudios.itch.io/mythicism as well as test out the game itself.
+Technical Document https://docs.google.com/document/d/1Qj3_KpIrX9Lzrt6_X607fjoEzgnHUjrfkYcOCQDcng8/edit?usp=sharing
+Design Document https://docs.google.com/document/d/1s98bTRdjuUcHgAeopO0OaG50z1rJIMlyW8Ri__htNzI/edit?usp=sharing
+Prioritized Feature List https://docs.google.com/document/d/1Qj3_KpIrX9Lzrt6_X607fjoEzgnHUjrfkYcOCQDcng8/edit?usp=sharing
 I personally worked on Game play mechanics, VFX, SFX, UI, and UX for this project.
  
 My teammates were: 
